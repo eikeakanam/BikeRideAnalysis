@@ -1,15 +1,15 @@
-# Project objective: Comparative Analysis of bike ride patterns in London and New York.
+## Project objective: Comparative Analysis of bike ride patterns in London and New York.
 The project focuses on the comparative analysis of bike rides in London during the Autumn and Spring seasons and bike rides between London and New York specifically during the Spring season. 
 
 By examining these datasets, I gained insights into the cycling patterns and trends within London and then identified any similarities and differences between the two cities during the Spring season including bike ride behavior, popular routes, and factors influencing bike usage between London and New York. 
 
 This analysis provided valuable information on bike ride behavior and helped identify any variations in biking culture between London and New York.
 
-# Data Source
+## Data Source
 London: Transport For London (TFL), 
 New York: CitiRide, New York USA
 
-# Key metrics:
+## Key metrics:
 Ride duration: Analyzing the average duration of bike rides in London and New York during Spring and within London during Autumn and Spring
 Popular routes: Identifying the most frequently used bike routes in each city.
 User demographics: Analyzing the demographics of bike riders, such as age and gender, to understand the user base.
